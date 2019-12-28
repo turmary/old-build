@@ -1,0 +1,67 @@
+BODY {
+	MARGIN: 0px;
+	FONT-SIZE: 12px;
+	COLOR: #0f0e0f;
+	BACKGROUND-COLOR: #ffffff;
+	SCROLLBAR-FACE-COLOR: #CCCCCC;
+	SCROLLBAR-HIGHLIGHT-COLOR: #CCCCCC;
+	SCROLLBAR-SHADOW-COLOR: #999999;
+	SCROLLBAR-3DLIGHT-COLOR: #999999;
+	SCROLLBAR-ARROW-COLOR: #999999;
+	SCROLLBAR-TRACK-COLOR: #CCCCCC;
+	SCROLLBAR-DARKSHADOW-COLOR: #CCCCCC
+}
+
+A:link {
+	COLOR: #00418c; TEXT-DECORATION: none
+}
+
+A:visited {
+	COLOR: #00418c; TEXT-DECORATION: none
+}
+
+A:hover {
+	FONT-SIZE: 12px; COLOR: #ff8c40; TEXT-DECORATION: underline
+}
+
+A:active {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+
+A.title:link {
+	FONT-SIZE: 15px;
+	COLOR: #00418c;
+	TEXT-DECORATION: none
+}
+
+A.title:visited {
+	FONT-SIZE: 15px;
+	COLOR: #00418c;
+	TEXT-DECORATION: none
+}
+
+A.title:hover {
+	FONT-SIZE: 15px;
+	COLOR: #ff8c40;
+	TEXT-DECORATION: underline
+}
+
+A.title:active {
+	FONT-SIZE: 15px;
+	COLOR: #333333;
+	TEXT-DECORATION: none
+}
+
+table
+{
+	font-size: 12px;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+	font-family: verdana,Arial, Helvetica, sans-serif;
+	list-style-type: none;
+	color: #444444;
+	background: #ffffff;
+	border-collapse: collapse;
+	border-color: #f0fffe
+}
